@@ -5,7 +5,7 @@ display: block;
   margin-right: auto;
     max-width: 100%; 
     width: auto; 
-    height: 30%;
+    height: auto;
 }
 h4{
     font-weight: 600;
