@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow:
+Sitemap: https://y2converts.com/sitemap.xml
