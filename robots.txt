@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /search
+Disallow: /
 Allow: /
 Sitemap: https://y2converts.com/sitemap.xml
