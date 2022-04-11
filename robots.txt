@@ -1,6 +1,6 @@
 User-agent: Media partners-Google
-Disallow:
+
 User-agent:*
-Disallow: /
+
 Allow: /
 Sitemap: https://y2converts.com/sitemap.xml
